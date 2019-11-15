@@ -15,7 +15,7 @@ jshell> C=n;
 |    symbol:   variable C
 |  C=n;
 |  ^
-### error fixed
+### after errors fixed
 
  3 : int n= 68;
    4 : byte b= 127;
